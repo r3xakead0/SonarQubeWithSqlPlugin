@@ -1,0 +1,1 @@
+# SonarQubeWithSqlPlugin
