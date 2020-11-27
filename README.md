@@ -8,8 +8,8 @@ Run SonarQube Server with SQL plugin and run scanner in Database project
 
 ## Requirements
 
-1. [Sonar Scanner][https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/]
-2. [Docker Desktop][https://www.docker.com/products/docker-desktop]
+1. [Sonar Scanner](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/)
+2. [Docker Desktop](https://www.docker.com/products/docker-desktop)
 
 ## Installation with Docker
 
