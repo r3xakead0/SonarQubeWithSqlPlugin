@@ -1,0 +1,1 @@
+sonar-scanner.bat -D"sonar.host.url=http://localhost:9000/" -D"sonar.login=60e494359af31eaaf84a12dbd76722a41576cace" -D"sonar.projectKey=Northwind" -D"sonar.projectName=Northwind" -D"sonar.projectVersion=1.1" -D"sonar.sources=." -D"sonar.language=sql" -D"sonar.sql.dialect=tsql" -D"sonar.exclusions=**/bin/**/*.*,**/obj/**/*.*,**/*.sqlproj"
